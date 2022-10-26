@@ -1,0 +1,2 @@
+# autodate
+Simple wordress plugin
