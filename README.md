@@ -2,6 +2,8 @@
 <ul>
     <li><a href="#languages_in_plugin_info">Что использовано в плагине?</a></li>
     <li><a href="#expectations_for_wp_info">Требования плагина к Wordpress</a></li>
+    <li><a href="#files_structure_info">Структура плагина</a></li>
+    <li><a href="#important_info">ВАЖНАЯ ИНФОРМАЦИЯ!</a></li>
     <li><a href="#general_info">Общая информация о плагине</a>
         <ul>
             <li><a href="#plugin_usage_info">Где он может пригодиться?</a></li>
@@ -23,6 +25,31 @@
     <li>Мин. версия: 4.5</li>
     <li>Макс. версия: 6.0<br>(актуальная на момент создания readme.md (27.10.2022) )</li>
 </ul>
+<h2 id="files_structure_info">Структура плагина <small>(см. директорию <a href="https://github.com/MonoBrainCell/autodate/tree/main/src" target="_blank">src</a>)</small></h2>
+<ul>
+    <li><a href="https://github.com/MonoBrainCell/autodate/blob/main/src/autodate.php" target="_blank">autodate.php</a> - главный файл плагина для Wordpress
+    </li>
+    <li><a href="https://github.com/MonoBrainCell/autodate/blob/main/src/readme.txt" target="_blank">readme.txt</a> - файл с описанием плагина
+    </li>
+    <li><a href="https://github.com/MonoBrainCell/autodate/blob/main/src/uninstall.php" target="_blank">uninstall.php</a> - файл, исполняемый перед удаление плагина из Wordpress
+    </li>
+    <li><a href="https://github.com/MonoBrainCell/autodate/tree/main/src/js_inc" target="_blank">js_inc/</a> - папка с js-файлами, используемыми в плагине
+        <ul>
+            <li><a href="https://github.com/MonoBrainCell/autodate/blob/main/src/js_inc/autodate_ua_manager.js" target="_blank">autodate_ua_manager.js</a> - файл, используемый в админ. панели для управлением редактором дат плагина</li>
+        </ul>
+    </li>
+    <li><a href="https://github.com/MonoBrainCell/autodate/tree/main/src/languages" target="_blank">languages/</a> - папка с файлами перевода для плагина
+    </li>
+    <li><a href="https://github.com/MonoBrainCell/autodate/tree/main/src/php_inc" target="_blank">php_inc/</a> - папка с php-файлами, используемыми в плагине
+        <ul>
+            <li><a href="https://github.com/MonoBrainCell/autodate/blob/main/src/php_inc/autodate.php" target="_blank">autodate.php</a> - файл, содержащий основной класс, реализующий весь функционал плагина</li>
+        </ul>
+    </li>
+</ul>
+
+<h2 id="important_info">ВАЖНАЯ ИНФОРМАЦИЯ!</h2>
+<p>Представленный здесь плагин является простой демонстрацией моей работы, как программиста. Если Вы захотите установить этот плагин на свой Wordpress, то просто найдите и установите его через админ. панель Вашего Wordpress.</p>
+
 <h2 id="general_info">Общая информация о плагине</h2>
 <p>Данный плагин делает именно, то о чём говорит его название, т.е. добавляет на страницу сайта Wordpress дату и автоматически обновляет её, исходя из заданных настроек</p>
 <h3 id="plugin_usage_info">Где он может пригодиться?</h3>
