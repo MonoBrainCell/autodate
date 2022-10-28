@@ -74,10 +74,10 @@
 <p>Скачать, активировать и пользоваться</p>
 <h2 id="plugin_demo_in_img">Демонстрация работы плагина</h2>
 <div>
-    <a href="demo_images/screenshot-7.jpg" title="Посмотреть в оригинальном размере"><img src="demo_images/screenshot-7.jpg"></a>
-    <a href="demo_images/screenshot-8.jpg" title="Посмотреть в оригинальном размере"><img src="demo_images/screenshot-8.jpg"></a>
-    <a href="demo_images/screenshot-9.jpg" title="Посмотреть в оригинальном размере"><img src="demo_images/screenshot-9.jpg"></a>
-    <a href="demo_images/screenshot-10.jpg" title="Посмотреть в оригинальном размере"><img src="demo_images/screenshot-10.jpg"></a>
-    <a href="demo_images/screenshot-11.jpg" title="Посмотреть в оригинальном размере"><img src="demo_images/screenshot-11.jpg"></a>
-    <a href="demo_images/screenshot-12.jpg" title="Посмотреть в оригинальном размере"><img src="demo_images/screenshot-12.jpg"></a>
+    <a href="demo_images/screenshot-7.jpg" title="Посмотреть в оригинальном размере"><img src="demo_images/screenshot-7.jpg" alt="демонстрация. шаг №1"></a>
+    <a href="demo_images/screenshot-8.jpg" title="Посмотреть в оригинальном размере"><img src="demo_images/screenshot-8.jpg" alt="демонстрация. шаг №2"></a>
+    <a href="demo_images/screenshot-9.jpg" title="Посмотреть в оригинальном размере"><img src="demo_images/screenshot-9.jpg" alt="демонстрация. шаг №3"></a>
+    <a href="demo_images/screenshot-10.jpg" title="Посмотреть в оригинальном размере"><img src="demo_images/screenshot-10.jpg" alt="демонстрация. шаг №4"></a>
+    <a href="demo_images/screenshot-11.jpg" title="Посмотреть в оригинальном размере"><img src="demo_images/screenshot-11.jpg" alt="демонстрация. шаг №5"></a>
+    <a href="demo_images/screenshot-12.jpg" title="Посмотреть в оригинальном размере"><img src="demo_images/screenshot-12.jpg" alt="демонстрация. шаг №6"></a>
 </div>
