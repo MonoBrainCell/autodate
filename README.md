@@ -1,4 +1,4 @@
-<h1>Автодата(autodate)<br><small>(простой плагин для wordpress)</small></h1>
+<h1>:hourglass_flowing_sand::arrows_counterclockwise::hourglass:Автодата(autodate)<br><small>(простой плагин для wordpress)</small></h1>
 <ul>
     <li><a href="#languages_in_plugin_info">Что использовано в плагине?</a></li>
     <li><a href="#expectations_for_wp_info">Требования плагина к Wordpress</a></li>
